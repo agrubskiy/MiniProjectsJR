@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="org.junit:junit-tests:5.0.0-SNAPSHOT" type="repository">
+    <properties maven-id="org.junit:junit-tests:5.0.0-SNAPSHOT" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/junit-tests-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-launcher-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit4-launcher-runner-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-commons-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-console-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jopt-simple-5.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit5-api-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentest4j-1.0.0-M1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit5-engine-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit4-engine-5.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-engine-api-5.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
